@@ -59,7 +59,7 @@ const Profile = () => {
                                 
                                 <tr>
                               <th>Adress :</th>
-                                <td>oject</td>
+                                <td>{user.adress}</td>
        
                                 </tr>
                                 <tr>
